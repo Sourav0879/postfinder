@@ -36,7 +36,7 @@ async def connect(bot, message):
        if "The user is already a participant" in str(e):
           pass
        else:
-          text = f"❌ Error: `{str(e)}`\nMake sure I'm admin in that channel & this group with all permissions and <a href='https://t.me/Prime_Nayem'>ᴍʀ.ᴘʀɪᴍᴇ</a> is not banned there"
+          text = f"❌ Error: `{str(e)}`\nMake sure I'm admin in that channel & this group with all permissions and <a href='https://t.me/Sourav00876'>彡[sᴏᴜʀᴀᴠʙᴏsᴜ]彡</a> is not banned there"
           return await m.edit(text)
     await update_group(message.chat.id, {"channels":channels})
     await m.edit(f"✅ Successfully connected to [{chat.title}]({c_link})!", disable_web_page_preview=True)
@@ -73,7 +73,7 @@ async def disconnect(bot, message):
        g_link = group.invite_link
        await User.leave_chat(channel)
     except Exception as e:
-       text = f"❌ Error: `{str(e)}`\nMake sure I'm admin in that channel & this group with all permissions and <a href='https://t.me/Prime_Nayem'>ᴍʀ.ᴘʀɪᴍᴇ</a> is not banned there"
+       text = f"❌ Error: `{str(e)}`\nMake sure I'm admin in that channel & this group with all permissions and <a href='https://t.me/Sourav00876'>彡[sᴏᴜʀᴀᴠʙᴏsᴜ]彡</a> is not banned there"
        return await m.edit(text)
     await update_group(message.chat.id, {"channels":channels})
     await m.edit(f"✅ Successfully disconnected from [{chat.title}]({c_link})!", disable_web_page_preview=True)
