@@ -10,14 +10,14 @@ async def start(bot, message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup([
             [
-                InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url='http://t.me/yourfindbot?startgroup=true')
+                InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url='https://t.me/luxepostfinderbot?startgroup=true')
             ],
             [
                 InlineKeyboardButton("ʜᴇʟᴘ", callback_data="misc_help"),
                 InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="misc_about")
             ],
             [
-                InlineKeyboardButton("💬 ᴩʀɪᴍᴇ ʙᴏᴛᴢ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💬", url="https://t.me/Prime_Botz_Support")
+                InlineKeyboardButton("💬 ʙᴏᴛᴢ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💬", url="https://t.me/movierequestgroupMZ")
             ]
         ])
     )
