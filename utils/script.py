@@ -60,6 +60,6 @@ Total: `{}`
 Remaining: `{}`
 Success: `{}`
 Failed: `{}`
-✯ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/Prime_Botz">ᴘʀɪᴍᴇ ʙᴏᴛᴢ</a>"""
+✯ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/LuxeFlix">LuxeFlix</a>"""
 
     
