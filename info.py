@@ -1,7 +1,7 @@
-API_ID       = 21100083
-API_HASH     = "8980ecdc34880454c2e31eec10033f5b"
+API_ID       =
+API_HASH     = ""
 BOT_TOKEN    = "7960853627:AAFH_9896KR40wYKfhMxwDGybFG-xww6OsM"
-SESSION      = "BQFB9jMApt4OKHYLT6A4alow-5gY7PAJSDZrdNDB3RDQhf0GSresmmIsIHmlRwees1BO_LmTgSpTTi8UprYdJOIEUohj0a30lFWwOR2MWDRdt6CDKSc3Udz5xSfk_05X-ASkCkxmq7xxAAO6sIq1gSEHLT5QP9KR_7DFIQPsBfGfKGtVU_xesxVRQTplb7zuMuJDxud3M1wkazZBEyFpWuhIGAxN5ghKG7ZkobVcnbFoBf_q54wymwEgms2Qwx8I8yrEFim_n03UQsUSBRnvlSk4OwfIKr5wFvsO_8uLeFpT5SQP6w6RccTPeky2L8ZTNpV_8yOw_wg4aiNYcCCi-zJjKOFWmgAAAAHEqf9yAA"
+SESSION      = ""
 DATABASE_URI = "mongodb+srv://infusedraindrops126:oQ6zaL4omfcdOGAt@cluster0.1kt0y.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 LOG_CHANNEL  = -1002386986283
 ADMIN        = 7594442610
